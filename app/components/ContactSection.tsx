@@ -3,7 +3,7 @@ import React from 'react';
 const ContactSection: React.FC = () => {
   const socialLinks = [
     { icon: '/github.JPEG', href: 'https://github.com/taranbrown-png', label: 'GitHub' },
-    { icon: '/linkdn.JPEG', href: 'https://www.instagram.com/_taranbrown/', label: 'LinkedIn' },
+    { icon: '/linkdn.JPEG', href: 'https://www.linkedin.com/in/taran-brown', label: 'LinkedIn' },
     { icon: '/gmail.JPEG', href: 'mailto:taranbrown@berkeley.edu', label: 'Email' },
   ];
 
